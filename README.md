@@ -1,5 +1,5 @@
 # :two_hearts: Health Care Chat-Bot 🤖
-Project for the 4th Semester Subject -> Machine Learning
+Project for the 4th Semester Subject -> Minor Project
 
 Health Care Chat-Bot is a Healthcare Domain Chatbot to simulate the predictions of a General Physician.
 
